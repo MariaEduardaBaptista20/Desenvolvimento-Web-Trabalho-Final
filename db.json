@@ -1,0 +1,112 @@
+{
+  "cadastros": [
+    {
+      "nome": "Maria Paula de Oliveira Bernardino",
+      "email": "mariapaulabernardino@hotmail.com",
+      "senha": "123456",
+      "id": 2
+    },
+    {
+      "nome": "Maria Paula de Oliveira Bernardino",
+      "email": "mariapaulabernardino5@hotmail.com",
+      "senha": "123456",
+      "id": 3
+    },
+    {
+      "nome": "testeeee",
+      "email": "teste@teste.com",
+      "senha": "123456",
+      "id": 4
+    },
+    {
+      "nome": "Juliana",
+      "email": "testar",
+      "senha": "testar",
+      "id": 5
+    },
+    {
+      "nome": "carlos",
+      "email": "pppariapaulaoliveira@gmail.com",
+      "senha": "123456",
+      "id": 6
+    },
+    {
+      "nome": "testeeeee",
+      "email": "testetesteee@gmail",
+      "senha": "123456",
+      "id": 7
+    },
+    {
+      "nome": "vitor",
+      "email": "vitor@gmail.com",
+      "senha": "14170267",
+      "id": 8
+    },
+    {
+      "nome": "vitoir",
+      "email": "fd@gmail.com",
+      "senha": "14170267",
+      "id": 9
+    },
+    {
+      "nome": "vitorrr",
+      "email": "dfdsfdsfdsfd@gmail.com",
+      "senha": "14170267",
+      "id": 10
+    },
+    {
+      "nome": "vitor",
+      "email": "vitorhb20@gmail.com",
+      "senha": "vitorhb10",
+      "id": 11
+    },
+    {
+      "nome": "vitorhb",
+      "email": "henrique@hotmail.com",
+      "senha": "14170267",
+      "id": 12
+    },
+    {
+      "nome": "henrique",
+      "email": "henrique2@gmail.com",
+      "senha": "14170267",
+      "id": 13
+    },
+    {
+      "nome": "vitor",
+      "email": "vitorhb30@gmail.com",
+      "senha": "14170267",
+      "id": 14
+    },
+    {
+      "nome": "flavia",
+      "email": "flavia@gmail.com",
+      "senha": "14170267",
+      "id": 15
+    },
+    {
+      "nome": "vitor",
+      "email": "vitorhenrique@gmail.com",
+      "senha": "14170267",
+      "id": 16
+    },
+    {
+      "nome": "felipe",
+      "email": "felipe@gmail.com",
+      "senha": "14170267",
+      "id": 17
+    },
+    {
+      "nome": "vitor",
+      "email": "vitorhbn@gmail.com",
+      "senha": "14170267",
+      "id": 18
+    },
+    {
+      "nome": "Maria Eduarda",
+      "email": "maria@gmail.com",
+      "senha": "123456789",
+      "id": 19
+    }
+  ]
+}
